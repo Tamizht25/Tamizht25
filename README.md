@@ -26,3 +26,15 @@ Python
 
 ## Learning Goals
 Improving my skills in data science and machine learning.
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tamizht25&show_icons=true)
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamizht25&layout=compact)
+## Skills
+
+![Python](https://img.shields.io/badge/Python-blue)
+![Pandas](https://img.shields.io/badge/Pandas-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-green)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-red)
